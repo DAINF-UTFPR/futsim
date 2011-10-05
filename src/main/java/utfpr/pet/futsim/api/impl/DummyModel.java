@@ -1,5 +1,6 @@
-package utfpr.pet.futsim;
+package utfpr.pet.futsim.api.impl;
 
+import utfpr.pet.futsim.api.SoccerModel;
 import java.util.ArrayList;
 import java.util.Collection;
 import utfpr.pet.futsim.entities.Ball;

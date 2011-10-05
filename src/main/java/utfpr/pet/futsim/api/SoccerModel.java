@@ -1,4 +1,4 @@
-package utfpr.pet.futsim;
+package utfpr.pet.futsim.api;
 
 import utfpr.pet.futsim.entities.Ball;
 import utfpr.pet.futsim.entities.Player;
