@@ -13,6 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <!-- tentativa frustrada de usar JOGL
     <repositories>
         <repository>
             <id>maven.iscpif.fr</id>
@@ -27,6 +28,7 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    -->
 
     <build>
         <plugins>
